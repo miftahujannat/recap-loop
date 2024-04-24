@@ -13,7 +13,7 @@
 //     console.log(i);
 // }
 
-// odd Number
+// even Number
 // i+=2
 // i = i + 2
 for (var i = 1; i <= 20;  i+=2){
